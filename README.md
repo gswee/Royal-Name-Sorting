@@ -1,15 +1,16 @@
-[UPDATE: 02/11/19]
+# [UPDATE: 02/11/19]
 
-Files in this folder
---------------------
-testinput[n].txt                       Files containing lines of input, 1 royal name each. 
+## Files in this folder
+```
+testinput[n].txt    Files containing lines of input, 1 royal name each. 
 [n] =
 1                   3 lines of input
 2                   9 lines of input, testing alphabetical sorting
 3                   Testing for invalid alphabetical input
 4                   Testing for invalid ordinal input
+```
 
-Instructions on running:
+## Instructions on running:
 
 1. Open main.java
 2. Change the "testinput[n].txt" file into a test file of your own.
@@ -18,10 +19,10 @@ Instructions on running:
 ```
 3. Run main.java
 
-[INITIAL CONTENTS]
+# [INITIAL CONTENTS] 
 
-Files in this folder
---------------------
+## Files in this folder
+```
 readme.txt                          This file
 Main.class                          Class containing the main() method
 RoyalRumble.java                    The file to be implemented and submitted
@@ -29,6 +30,7 @@ input1.txt                          Sample input file
 output1.txt                         Sample output file corresponding to input1.txt
 run.sh                              Bash script to help you run Main.main()
 run.bat                             Batch file to help you run Main.main()
+```
 
 Instructions
 --------------------
