@@ -1,3 +1,25 @@
+[UPDATE: 02/11/19]
+
+Files in this folder
+--------------------
+testinput[n].txt                       Files containing lines of input, 1 royal name each. 
+[n] =
+1                   3 lines of input
+2                   9 lines of input, testing alphabetical sorting
+3                   Testing for invalid alphabetical input
+4                   Testing for invalid ordinal input
+
+Instructions on running:
+
+1. Open main.java
+2. Change the "testinput[n].txt" file into a test file of your own.
+```
+12        File file = new File("testinput[n].txt");
+```
+3. Run main.java
+
+[INITIAL CONTENTS]
+
 Files in this folder
 --------------------
 readme.txt                          This file
