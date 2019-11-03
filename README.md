@@ -12,12 +12,20 @@ testinput[n].txt    Files containing lines of input, 1 royal name each.
 
 ## Instructions on running:
 
-1. Open main.java
-2. Change the "testinput[n].txt" file into a test file of your own.
+1. Open main.java AND RoyalRumble.java
+2. In main.java, change the "testinput[n].txt" file into a test file of your own.
 ```
 12        File file = new File("testinput[n].txt");
 ```
-3. Run main.java
+3. Run main.java. The output should be as follows:
+```
+Input:
+12        File file = new File("testinput1.txt");
+
+Output:
+Elizabeth I, George VI, William I, William II
+[total speed]
+```
 
 # [INITIAL CONTENTS] 
 
